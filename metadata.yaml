@@ -1,0 +1,47 @@
+_repo: The-Baz-nama-yi-Nasiri-b-A-Persian-treatise-on-falconry_74303
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Phillott, D. C. (Douglas Craven)
+    alias: Phillott, Douglas Craven
+    birthdate: 1860
+    deathdate: 1930
+    gutenberg_agent_id: '57432'
+    url: http://www.gutenberg.org/2009/agents/57432
+    wikipedia: https://en.wikipedia.org/wiki/Douglas_Craven_Phillott
+creator:
+  author:
+    agent_name: Taymur Mirza, Prince, grandson of Fath Ali Shah, Shah of Iran
+    aliases:
+    - Farmanfarma, Taymur Mirza, Prince, grandson of Fath Ali Shah, Shah of Iran
+    - Husam al-Dawlah, Taymur Mirza, Prince, grandson of Fath Ali Shah, Shah of Iran
+    - Temour Mirza, Prince, grandson of Fath Ali Shah, Shah of Iran
+    - Hisam al-Dawlah, Taymur Mirza, Prince, grandson of Fath Ali Shah, Shah of Iran
+    - تىمور مىرزا، شاهزاده، نوه فتح على شاه، شاه ايران
+    deathdate: 1874
+    gutenberg_agent_id: '57438'
+    url: http://www.gutenberg.org/2009/agents/57438
+description: ''
+gutenberg_issued: '2024-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74303'
+  lccn: '53050415'
+language: en
+pgterms:marc904: https://archive.org/details/baznamayinasirip00husarich
+pgterms:marc905: 20170822001230phillott
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: MFR, A Marshall, and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bBernard Quaritch, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Falconry -- Iran'
+- !lcc 'SK'
+- GITenberg
+title: 'The Baz-nama-yi Nasiri : $b A Persian treatise on falconry'
+url: http://www.gutenberg.org/ebooks/74303
