@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '57432'
     url: http://www.gutenberg.org/2009/agents/57432
     wikipedia: https://en.wikipedia.org/wiki/Douglas_Craven_Phillott
+covers:
+- cover_type: archival
+  image_path: 74303-h/images/cover.jpg
 creator:
   author:
     agent_name: Taymur Mirza, Prince, grandson of Fath Ali Shah, Shah of Iran
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '57438'
     url: http://www.gutenberg.org/2009/agents/57438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74303#The-Baz-nama-yi-Nasiri-b-A-Persian-treatise-on-falconry
 gutenberg_issued: '2024-08-23'
 gutenberg_type: Text
 identifiers:
